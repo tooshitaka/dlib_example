@@ -1,0 +1,9 @@
+﻿  svm.cpp
+c:\dlib19\dlib\image_transforms/morphological_operations.h : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+  Generating code
+  5174 of 5559 functions (93.1%) were compiled, the rest were copied from previous compilation.
+    4995 functions were new in current compilation
+    147 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  dlib_example.vcxproj -> C:\Users\toshi_000\Documents\Visual Studio 2015\Projects\dlib_example\Release\dlib_example.exe
+  dlib_example.vcxproj -> C:\Users\toshi_000\Documents\Visual Studio 2015\Projects\dlib_example\Release\dlib_example.pdb (Full PDB)
